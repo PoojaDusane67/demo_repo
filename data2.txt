@@ -1,0 +1,5 @@
+this is the second file I want to send from local to remote
+ for that we will do :-
+1. git add filename
+2. git commit -m "message"
+3. git push
