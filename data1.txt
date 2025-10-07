@@ -1,0 +1,13 @@
+this is the first demo file .
+I am sending this file from local to remote (git)
+for that I am using the following commands
+
+1. git add filename
+2.git commit -m "message"
+
+now this is the first time I am shifting the file from local to remote , therefore this steps
+
+3. git remote add origin <repo-url>
+4. git branch -M main
+
+5. git push -u origin main
